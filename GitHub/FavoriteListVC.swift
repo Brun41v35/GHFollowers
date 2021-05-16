@@ -1,17 +1,17 @@
 //
-//  ViewController.swift
+//  FavoriteListVC.swift
 //  GitHub
 //
-//  Created by Bruno Silva on 15/05/21.
+//  Created by Bruno Silva on 16/05/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class FavoriteListVC: UIViewController {
+    
+    //MARK: - LifeCycle
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBlue
     }
 }
-
